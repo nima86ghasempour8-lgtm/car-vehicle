@@ -1,0 +1,1 @@
+this file is related to a parent class vehicle that a child class named car inherited the vehicle
