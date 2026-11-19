@@ -102,7 +102,7 @@ int main() {
     cout << mycar1.gettype()<<endl;
     
 	
-	mycar1.settype("ame kharab");
+	mycar1.settype("suv");
 	cout << mycar1.gettype()<<endl;
     return 0;
 }
